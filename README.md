@@ -1,4 +1,4 @@
-# Fictional_Forensic_reports
+# Mock_Forensic_reports
 This folder contains fictional forensic case studies I have created. Each report includes:
 
 - Detailed external and internal examination of the decedent
